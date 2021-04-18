@@ -1,0 +1,135 @@
+body {margin: 0;}
+.navbar {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    float: right;
+    
+  }
+  .navbar a{
+     display: block;
+     color: #f2f2f2;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+     font-size: 17px;
+     float: right;
+  }
+
+  .navbar a:hover {
+    background: rgb(236, 232, 232);
+    color: rgb(0, 0, 0);
+    float: right;
+  }
+
+  .img1{
+  padding-left: 14px;
+  padding-right: 14px;
+
+  }
+
+  .img{
+     padding-left: 14px;
+     padding-right: 14px;
+
+  }
+
+
+ .name h1{
+  font-size: 30px;
+  color: rgb(239, 255, 13);
+ }
+
+.name1 center,h2{
+
+    font-style: italic;
+
+}
+
+ .med h1{
+     color: yellow;
+ }
+
+.clubs h1{
+        font-style: italic;
+}
+
+.con h2{
+    color:yellow;
+    font-style: normal;
+}
+.con {
+    color: white;
+}
+
+ .login-form{
+    font-family: sans-serif;
+    width: 350px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% ,-50%);
+    position: absolute;
+    color: yellow;
+ } 
+
+  .login-form h1{
+      font-size: 40px;
+      text-align: center;
+      text-transform: uppercase;
+      margin: 40px;
+  }
+
+  .login-form p{
+    font-size: 20px;
+    margin: 15px;
+   }
+
+ .login-form input {
+     font-size: 16px;
+     width: 100%;
+     padding: 15px 10px;
+     border: 5px;
+     border-radius: 5px;
+ }
+
+ .login-form button {
+     font-size: 18px;
+     font-weight: bold;
+     margin: 20px 0;
+     padding: 10px 15px;
+     width: 50%;
+     border-radius: 5px;
+     border: 0;
+     
+ }
+
+  .label{
+      width: 240px;
+      display: inline-block;
+  }
+
+  .label1{
+    width: 250px;
+    display: inline-block;
+}
+
+.label2{
+    width: 240px;
+    display: inline-block;
+}
+
+.label3{
+    width: 240px;
+    display: inline-block;
+}
+
+ .table th,td{
+     border: 1px solid black;
+     font-size: 20px;
+ }
+
+  .para p{
+      font-size: 20px;
+
+  }
